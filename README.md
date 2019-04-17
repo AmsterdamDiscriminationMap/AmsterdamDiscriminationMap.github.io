@@ -1,1 +1,1 @@
-# https-github.com-AmsterdamDiscriminationMap-AmsterdamDiscriminationMap.github.io
+# AmsterdamDiscriminationMap.github.io
